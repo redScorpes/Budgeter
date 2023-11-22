@@ -1,5 +1,6 @@
-start = 900
+start = 1000
 monthly = 20
+
 print("what month would you like to know?")
 month = int(input())
 
